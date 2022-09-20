@@ -1,0 +1,61 @@
+body{
+	background: black;
+}
+#title
+{background: red;
+	color: white;
+	width: 600px;
+	font-family:Lucida Handwriting;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 10px;
+	margin-bottom: 0rem;
+	padding: 1px;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+}
+#container{
+	background: white;
+	width: 600px;
+	color: black;
+font-family: Lucida Handwriting;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 10px;
+	padding: 0px;
+}
+.copy{
+	background: red;
+	color: white;
+	font-family: Lucida Handwriting;
+	font-size: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	text-align: center;
+	margin-bottom: 0rem;
+	
+}
+table{border-collapse: collapse;
+	margin-right: auto;
+	margin-left: auto;
+	height: 330px;
+	width: 500px;
+}
+th {background: black;
+	color: white;
+	text-align: center;
+}
+.amount{
+	color: red;
+}
+.menu{
+	padding: 20px;
+	margin-top: 1px;
+}
